@@ -1,0 +1,16 @@
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# WPF Programs\Shut_Down_PC\bin\Debug\Shut_Down_PC.exe.config
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# WPF Programs\Shut_Down_PC\bin\Debug\Shut_Down_PC.exe
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# WPF Programs\Shut_Down_PC\bin\Debug\Shut_Down_PC.pdb
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# WPF Programs\Shut_Down_PC\obj\Debug\Shut_Down_PC.Shut_Down_PC.resources
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# WPF Programs\Shut_Down_PC\obj\Debug\Shut_Down_PC.Properties.Resources.resources
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# WPF Programs\Shut_Down_PC\obj\Debug\Shut_Down_PC.csproj.GenerateResource.Cache
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# WPF Programs\Shut_Down_PC\obj\Debug\Shut_Down_PC.exe
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# WPF Programs\Shut_Down_PC\obj\Debug\Shut_Down_PC.pdb
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Windows Forms Apps\Shut_Down_PC\bin\Debug\Shut_Down_PC.exe.config
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Windows Forms Apps\Shut_Down_PC\bin\Debug\Shut_Down_PC.exe
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Windows Forms Apps\Shut_Down_PC\bin\Debug\Shut_Down_PC.pdb
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Windows Forms Apps\Shut_Down_PC\obj\Debug\Shut_Down_PC.Shut_Down_PC.resources
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Windows Forms Apps\Shut_Down_PC\obj\Debug\Shut_Down_PC.Properties.Resources.resources
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Windows Forms Apps\Shut_Down_PC\obj\Debug\Shut_Down_PC.csproj.GenerateResource.Cache
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Windows Forms Apps\Shut_Down_PC\obj\Debug\Shut_Down_PC.exe
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Windows Forms Apps\Shut_Down_PC\obj\Debug\Shut_Down_PC.pdb
