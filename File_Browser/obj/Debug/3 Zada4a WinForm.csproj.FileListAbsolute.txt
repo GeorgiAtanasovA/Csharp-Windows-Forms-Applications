@@ -1,0 +1,9 @@
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\26. Практически задачи за изпит по програмиране – тема 3\3 Zada4a WinForm\bin\Debug\3 Zada4a WinForm.exe.config
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\26. Практически задачи за изпит по програмиране – тема 3\3 Zada4a WinForm\bin\Debug\3 Zada4a WinForm.exe
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\26. Практически задачи за изпит по програмиране – тема 3\3 Zada4a WinForm\bin\Debug\3 Zada4a WinForm.pdb
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\26. Практически задачи за изпит по програмиране – тема 3\3 Zada4a WinForm\obj\Debug\_3_Zada4a_WinForm.Form1.resources
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\26. Практически задачи за изпит по програмиране – тема 3\3 Zada4a WinForm\obj\Debug\3 Zada4a WinForm.csproj.GenerateResource.Cache
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\26. Практически задачи за изпит по програмиране – тема 3\3 Zada4a WinForm\obj\Debug\3 Zada4a WinForm.exe
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\26. Практически задачи за изпит по програмиране – тема 3\3 Zada4a WinForm\obj\Debug\3 Zada4a WinForm.pdb
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\26. Практически задачи за изпит по програмиране – тема 3\3 Zada4a WinForm\obj\Debug\_3_Zada4a_WinForm.Properties.Resources.resources
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\26. Практически задачи за изпит по програмиране – тема 3\3 Zada4a WinForm\obj\Debug\3 Zada4a WinForm.csprojResolveAssemblyReference.cache
