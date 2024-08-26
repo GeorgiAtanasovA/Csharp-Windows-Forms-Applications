@@ -1,0 +1,52 @@
+c:\users\georgi 4\documents\visual studio 2015\Projects\20 Принципи на обектно-ориентираното програмиране\Currency_Converter\bin\Debug\Currency_Converter.exe.config
+c:\users\georgi 4\documents\visual studio 2015\Projects\20 Принципи на обектно-ориентираното програмиране\Currency_Converter\bin\Debug\Currency_Converter.exe
+c:\users\georgi 4\documents\visual studio 2015\Projects\20 Принципи на обектно-ориентираното програмиране\Currency_Converter\bin\Debug\Currency_Converter.pdb
+c:\users\georgi 4\documents\visual studio 2015\Projects\20 Принципи на обектно-ориентираното програмиране\Currency_Converter\obj\Debug\Currency_Converter.csprojResolveAssemblyReference.cache
+c:\users\georgi 4\documents\visual studio 2015\Projects\20 Принципи на обектно-ориентираното програмиране\Currency_Converter\obj\Debug\Currency_Converter.Form1.resources
+c:\users\georgi 4\documents\visual studio 2015\Projects\20 Принципи на обектно-ориентираното програмиране\Currency_Converter\obj\Debug\Currency_Converter.Properties.Resources.resources
+c:\users\georgi 4\documents\visual studio 2015\Projects\20 Принципи на обектно-ориентираното програмиране\Currency_Converter\obj\Debug\Currency_Converter.csproj.GenerateResource.Cache
+c:\users\georgi 4\documents\visual studio 2015\Projects\20 Принципи на обектно-ориентираното програмиране\Currency_Converter\obj\Debug\Currency_Converter.exe
+c:\users\georgi 4\documents\visual studio 2015\Projects\20 Принципи на обектно-ориентираното програмиране\Currency_Converter\obj\Debug\Currency_Converter.pdb
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Programki Georgi\Currency_Converter\bin\Debug\Currency_Converter.exe.config
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Programki Georgi\Currency_Converter\obj\Debug\Currency_Converter.exe
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Programki Georgi\Currency_Converter\obj\Debug\Currency_Converter.pdb
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Programki Georgi\Currency_Converter\bin\Debug\Currency_Converter.exe
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Programki Georgi\Currency_Converter\bin\Debug\Currency_Converter.pdb
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Programki Georgi\Currency_Converter\obj\Debug\Currency_Converter.Form1.resources
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Programki Georgi\Currency_Converter\obj\Debug\Currency_Converter.Properties.Resources.resources
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Programki Georgi\Currency_Converter\obj\Debug\Currency_Converter.csproj.GenerateResource.Cache
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Programki Georgi\Currency_Converter\obj\Debug\Currency_Converter.csprojResolveAssemblyReference.cache
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\Programki Georgi\Currency_Converter\bin\Debug\Currency_Converter.exe.config
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\Programki Georgi\Currency_Converter\obj\Debug\Currency_Converter.exe
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\Programki Georgi\Currency_Converter\obj\Debug\Currency_Converter.pdb
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\Programki Georgi\Currency_Converter\bin\Debug\Currency_Converter.exe
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\Programki Georgi\Currency_Converter\bin\Debug\Currency_Converter.pdb
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\Programki Georgi\Currency_Converter\obj\Debug\Currency_Converter.csprojResolveAssemblyReference.cache
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\Programki Georgi\Currency_Converter\obj\Debug\Currency_Converter.Form1.resources
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\Programki Georgi\Currency_Converter\obj\Debug\Currency_Converter.Properties.Resources.resources
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\Programki Georgi\Currency_Converter\obj\Debug\Currency_Converter.csproj.GenerateResource.Cache
+C:\Users\GeorgiV2\Documents\Visual Studio 2015\Projects\Programki Georgi\Currency_Converter\bin\Debug\Currency_Converter.exe.config
+C:\Users\GeorgiV2\Documents\Visual Studio 2015\Projects\Programki Georgi\Currency_Converter\obj\Debug\Currency_Converter.exe
+C:\Users\GeorgiV2\Documents\Visual Studio 2015\Projects\Programki Georgi\Currency_Converter\obj\Debug\Currency_Converter.pdb
+C:\Users\GeorgiV2\Documents\Visual Studio 2015\Projects\Programki Georgi\Currency_Converter\bin\Debug\Currency_Converter.exe
+C:\Users\GeorgiV2\Documents\Visual Studio 2015\Projects\Programki Georgi\Currency_Converter\bin\Debug\Currency_Converter.pdb
+C:\Users\GeorgiV2\Documents\Visual Studio 2015\Projects\Programki Georgi\Currency_Converter\obj\Debug\Currency_Converter.csprojResolveAssemblyReference.cache
+C:\Users\GeorgiV2\Documents\Visual Studio 2015\Projects\Programki Georgi\Currency_Converter\obj\Debug\Currency_Converter.Properties.Resources.resources
+C:\Users\GeorgiV2\Documents\Visual Studio 2015\Projects\Programki Georgi\Currency_Converter\obj\Debug\Currency_Converter.csproj.GenerateResource.Cache
+C:\Users\GeorgiV2\Documents\Visual Studio 2015\Projects\Programki Georgi\Currency_Converter\obj\Debug\Currency_Converter.CurrencyConvert.resources
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# WPF Programs\Currency_Converter\bin\Debug\Currency_Converter.exe.config
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# WPF Programs\Currency_Converter\obj\Debug\Currency_Converter.exe
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# WPF Programs\Currency_Converter\obj\Debug\Currency_Converter.pdb
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# WPF Programs\Currency_Converter\bin\Debug\Currency_Converter.exe
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# WPF Programs\Currency_Converter\bin\Debug\Currency_Converter.pdb
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# WPF Programs\Currency_Converter\obj\Debug\Currency_Converter.CurrencyConvert.resources
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# WPF Programs\Currency_Converter\obj\Debug\Currency_Converter.Properties.Resources.resources
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# WPF Programs\Currency_Converter\obj\Debug\Currency_Converter.csproj.GenerateResource.Cache
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Windows Forms Apps\Currency_Converter\bin\Debug\Currency_Converter.exe.config
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Windows Forms Apps\Currency_Converter\obj\Debug\Currency_Converter.exe
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Windows Forms Apps\Currency_Converter\obj\Debug\Currency_Converter.pdb
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Windows Forms Apps\Currency_Converter\bin\Debug\Currency_Converter.exe
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Windows Forms Apps\Currency_Converter\bin\Debug\Currency_Converter.pdb
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Windows Forms Apps\Currency_Converter\obj\Debug\Currency_Converter.Properties.Resources.resources
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Windows Forms Apps\Currency_Converter\obj\Debug\Currency_Converter.csproj.GenerateResource.Cache
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Windows Forms Apps\Currency_Converter\obj\Debug\Currency_Converter.Currency_Convert.resources
