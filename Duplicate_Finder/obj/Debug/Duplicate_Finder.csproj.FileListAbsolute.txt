@@ -1,9 +1,0 @@
-C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Windows Forms Apps\Duplicate_Finder\bin\Debug\Dublicat_Finder.exe.config
-C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Windows Forms Apps\Duplicate_Finder\bin\Debug\Dublicat_Finder.exe
-C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Windows Forms Apps\Duplicate_Finder\bin\Debug\Dublicat_Finder.pdb
-C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Windows Forms Apps\Duplicate_Finder\obj\Debug\Dublicat_Finder.Form1.resources
-C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Windows Forms Apps\Duplicate_Finder\obj\Debug\Dublicat_Finder.Properties.Resources.resources
-C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Windows Forms Apps\Duplicate_Finder\obj\Debug\Duplicate_Finder.csproj.GenerateResource.Cache
-C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Windows Forms Apps\Duplicate_Finder\obj\Debug\Dublicat_Finder.exe
-C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Windows Forms Apps\Duplicate_Finder\obj\Debug\Dublicat_Finder.pdb
-C:\Users\GeorgiV3\Desktop\Programi za GitHub\C# Windows Forms Apps\Duplicate_Finder\obj\Debug\Duplicate_Finder.csprojResolveAssemblyReference.cache
